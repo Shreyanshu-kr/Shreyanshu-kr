@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development projects and improving my problem-solving skills  <br><br>👯 I’m looking to collaborate on real-world projects and open-source contributions  <br><br>🤝 I’m looking for help with advanced backend development and system design  <br><br>🌱 I’m currently learning Data Structures & Algorithms and Full Stack Development  <br><br>💬 Ask me about C, C++, HTML, CSS, JavaScript, and MySQL  <br><br>⚡ Fun fact: I have built projects like an E-commerce website and a Parallel Job Scheduling System
+Hi, I'm Shreyanshu Kumar 👋  <br>🎓 3rd Year Computer Science Student passionate about Artifical  intelligence <br><br>📚 Currently learning:<br>- Data Structures & Algorithms  <br>- Full Stack Development  <br><br>🤝 Open to internships, collaboration, and learning opportunities
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shreyanshu-kr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shreyanshu-kr&icon=0&color=0)](https://visitcount.itsvg.in)

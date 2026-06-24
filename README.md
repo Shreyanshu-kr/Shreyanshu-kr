@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shreyanshu Kumar 👋  <br>🎓 3rd Year Computer Science Student passionate about Artifical  intelligence <br><br>📚 Currently learning:<br>- Data Structures & Algorithms  <br>- Full Stack Development  <br><br>🤝 Open to internships, collaboration, and learning opportunities
+Hi, I'm Shreyanshu Kumar 👋  <br>🎓 4th Year Computer Science Student passionate about Artifical  intelligence <br><br>📚 Currently learning:<br>- Data Structures & Algorithms  <br>- Full Stack Development  <br><br>🤝 Open to internships, collaboration, and learning opportunities
 
 
 ## 🌐 Socials:
